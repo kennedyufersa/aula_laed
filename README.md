@@ -9,7 +9,7 @@ Uso da biblioteca time.h para medir o tempo de execução dos algoritmos.
 
 Versões do Fibonacci
 
-1. Tradicional: $F(n) = F(n-1) + F(n-2)$
+1. Tradicional: $F(n) = F(n-1) + F(n-2)$ <- 
 2. Tradicional com melhorias na memória
 3. Melhoria definitiva da memória
     1. Representação dos dados
