@@ -5,8 +5,6 @@
 ### Cronômetro
 Uso da biblioteca time.h para medir o tempo de execução dos algoritmos.
 
-Esse código gera um arquivo de saída com o uso de memória do programa, que pode ser analisado com o comando ms_print.
-
 ### Fibonacci
 
 Versões do Fibonacci
